@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.blog-item-details-container {
+  padding: 20px;
+}
+
+.blog-image {
+  width: 100%;
+  height: auto;
+}
+
+.blog-title {
+  font-size: 24px;
+  color: #1e293b;
+}
+
+.blog-content {
+  font-size: 18px;
+  color: #334155;
+}

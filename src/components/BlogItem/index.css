@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.blog-thumbnail {
+  width: 100%;
+  height: auto;
+}
+
+.blog-title {
+  color: #1e293b;
+  font-size: 18px;
+}
